@@ -52,7 +52,7 @@ Kontribusi sangat diapresiasi!  Jika Anda menemukan kesalahan atau ingin menamba
 
 
 ## Lisensi 📜
-[MIT License]()
+[MIT License](https://github.com/Marsyanda04/Ch.2-Machine-Learning-and-Deep-Learning/blob/main/LICENSE)
 
 
 Semoga repositori ini bermanfaat!  Selamat belajar! 🎉
